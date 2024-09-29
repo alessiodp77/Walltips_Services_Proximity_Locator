@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/alessiodp77/alfabes_services_proximity_locator/issues"
   },
-  "homepage": "https://github.com/alessiodp77/alfabes_services_proximity_locator#readme"
+  "homepage": "https://github.com/alessiodp77/alfabes_services_proximity_locator#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "pg": "^8.13.0"
+  }
 }
